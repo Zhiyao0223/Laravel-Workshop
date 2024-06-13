@@ -1,4 +1,4 @@
-# Laravel_Workshop
+# Laravel-Workshop
 
 This is a simple Laravel project that demonstrates the basic CRUD operations. It is a simple web application that allows users to create, read, update and delete customers from table.
 
@@ -14,4 +14,3 @@ This is a simple Laravel project that demonstrates the basic CRUD operations. It
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-```
