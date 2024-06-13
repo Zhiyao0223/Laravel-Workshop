@@ -38,7 +38,7 @@ php artisan cache:clear
             </thead>
             <tbody>
                 {{-- Create button --}}
-                <a href="{{ route('customers.create') }}" class="btn btn-primary">Create</a>
+                <a href="{{ route('customers.create') }}" class="btn btn-primary mt-3">Create</a>
                 <br><br>
 
                 @foreach ($customers as $customer)
