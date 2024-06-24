@@ -5,11 +5,12 @@ This is a simple Laravel project that demonstrates the basic CRUD operations. It
 ## Installation
 
 1. Clone the repository
-2. Run `composer install`
-3. Run `npm install`
-4. Run `npm run dev`
-5. Run `php artisan serve`
-6. Visit `http://localhost:8000` in your browser
+2. Import `laravel_workshop.sql` to your local database
+3. Run `composer install` in terminal
+4. Run `npm install` in terminal
+5. Run `npm run dev` in terminal
+6. Run `php artisan serve` in terminal
+7. Visit `http://localhost:8000` in your browser
 
 ## License
 
